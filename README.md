@@ -3,8 +3,8 @@
 I'm a Computer Science student passionate about web development, AI, and IoT. I enjoy building creative, meaningful applications that make life easier and more fun!
 
 ## 🚀 Projects
-- 🔊 **[Voice Translation App](https://github.com/nandu9980/voice-translation)** – Convert voice to text and translate it!
-- 🌱 **[Crop Yield Predictor](https://github.com/nandu9980/CropYieldPredictor)** – Predict crop yield using ML
+- 🔊 **[Voice Translation App](https://github.com/Nandukumar-koribilli/solar-system)** – solar-system
+- 🌱 **[Crop Yield Predictor](https://github.com/Nandukumar koribilli/CropYieldPredictor/tree/main/CropYieldPredictor)** – Predict crop yield using ML
 
 ## 📫 Connect with Me
 - 💼 [Instagram](https://www.instagram.com/nandukumar_official)
