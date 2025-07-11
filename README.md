@@ -4,7 +4,7 @@ I'm a Computer Science student passionate about web development, AI, and IoT. I 
 
 ## 🚀 Projects
 - 🔊 **[solar-system](https://github.com/Nandukumar-koribilli/solar-system)** – solar-system
-- 🌱 **[Crop Yield Predictor](https://github.com/Nandukumarkoribilli/CropYieldPredictor/tree/main/CropYieldPredictor)** – Predict crop yield using ML
+- 🌱 **[Crop Yield Predictor](https://github.com/Nandukumar-koribilli/CropYieldPredictor/tree/main/CropYieldPredictor)** – Predict crop yield using ML
 
 ## 📫 Connect with Me
 - 💼 [Instagram](https://www.instagram.com/nandukumar_official)
