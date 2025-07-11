@@ -9,7 +9,7 @@ I'm a Computer Science student passionate about web development, AI, and IoT. I 
 ## 📫 Connect with Me
 - 💼 [Instagram](https://www.instagram.com/nandukumar_official)
 - 📍 Gayatri Vidya Parishad | BSc (Hons.) Computer Science
-- 🌐 Portfolio: _coming soon!_
+- 🌐 **[solar-system](https://github.com/Nandukumar-koribilli/my-portfolio)** 
 
 ## 🧠 Tech Stack
 `HTML` `CSS` `JavaScript` `Python` `MongoDB` `React` `Git` `Linux`
