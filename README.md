@@ -15,7 +15,7 @@ I'm a Computer Science student passionate about web development, AI, and IoT. I 
 `HTML` `CSS` `JavaScript` `Python` `MongoDB` `React` `Git` `Linux`
 
 ## 📈 GitHub Stats
-![Nandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandu9980&show_icons=true&theme=github_dark)
+![Nandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandukumar-koribilli&show_icons=true&theme=github_dark)
 
 ---
 
