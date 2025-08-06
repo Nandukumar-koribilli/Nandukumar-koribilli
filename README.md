@@ -9,6 +9,10 @@
 </h2>
 <br>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
+
 👋 Hi, I'm Nandu! A passionate **Computer Science student** diving into the worlds of **Web Development**, **AI**, and **IoT**. I love crafting innovative, user-friendly applications that solve real-world problems and spark joy!
 
 ---
