@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNiNGs2NHAyaGozdDM3NDdsNGtlbmx6bDM2Znc3c3dxY3Y5OTRlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
 👋 Hi, I'm Nandu! A passionate **Computer Science student** diving into the worlds of **Web Development**, **AI**, and **IoT**. I love crafting innovative, user-friendly applications that solve real-world problems and spark joy!
