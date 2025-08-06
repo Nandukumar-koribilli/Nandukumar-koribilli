@@ -1,13 +1,13 @@
+@@ -1,22 +1,55 @@
+# 👋 Hello, I'm Nandu Kumar Koribilli
 # 🌟 Nandu Kumar Koribilli
 
- As a dedicated learner currently pursuing an **Honors BSc in Computer Science** at Gayatri Vidya Parishad (A), I am eager to make a meaningful impact in the software sector. My major in Computer Science and minor in the Internet of Things (IoT) have empowered me to explore cutting-edge technologies and innovative solutions.
+I'm a Computer Science student passionate about web development, AI, and IoT. I enjoy building creative, meaningful applications that make life easier and more fun!
+👋 Hi, I'm Nandu! A passionate **Computer Science student** diving into the worlds of **Web Development**, **AI**, and **IoT**. I love crafting innovative, user-friendly applications that solve real-world problems and spark joy!
 
-> I am passionate about **innovation and problem-solving**, constantly seeking out new opportunities to leverage technology for real-world impact. Having completed courses in Artificial Intelligence, I am equipped with a robust skill set spanning software development, IoT, and emerging tech.
-
-- **Actively seeking challenging roles** in software engineering and innovation-driven teams.
-- Committed to *continuous learning* and *driving impactful solutions* in the technology landscape.
-
-
+## 🚀 Projects
+- 🔊 **[solar-system](https://github.com/Nandukumar-koribilli/solar-system)** – solar-system
+- 🌱 **[Crop Yield Predictor](https://github.com/Nandukumar-koribilli/CropYieldPredictor/tree/main/CropYieldPredictor)** – Predict crop yield using ML
 ---
 
 ## 🚀 About Me
@@ -30,6 +30,10 @@
 
 ---
 
+## 📫 Connect with Me
+- 💼 [Instagram](https://www.instagram.com/nandukumar_official)
+- 📍 Gayatri Vidya Parishad | BSc (Hons.) Computer Science
+- 🌐 **[portfolio](https://github.com/Nandukumar-koribilli/my-portfolio)** 
 ## 🌟 Featured Projects
 - **[CropYieldPredictor](https://github.com/Nandukumar-koribilli/CropYieldPredictor)**: A web app leveraging AI to predict crop yields, helping farmers optimize productivity.  
 - **[Solar System](https://github.com/Nandukumar-koribilli/solar-system)**: An interactive JavaScript-based visualization of our solar system.  
@@ -37,6 +41,8 @@
 - **[My Portfolio](https://github.com/Nandukumar-koribilli/my-portfolio)**: A sleek showcase of my skills and projects, built with HTML and CSS.  
 - **[Internship Assignments](https://github.com/Nandukumar-koribilli/internship-assignments)**: A collection of tasks completed during my internship, showcasing my problem-solving skills.
 
+## 🧠 Tech Stack
+`HTML` `CSS` `JavaScript` `Python` `MongoDB` `React` `Git` `Linux`
 ---
 
 ## 📊 GitHub Stats
@@ -53,9 +59,12 @@
 
 ---
 
+## 📈 GitHub Stats
+![Nandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandukumar-koribilli&show_icons=true&theme=github_dark)
 ⭐️ *Let's build something extraordinary together!*
 
 ---
 
+> “I code not just for the screen, but to solve real-world problems.”
 *Last updated: August 2025*  
 © 2025 Nandu Kumar Koribilli
