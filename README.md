@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ## 🔥 What I Love Building
 
 - Intelligent automation projects: Robotics, IoT, and sensor-driven solutions
