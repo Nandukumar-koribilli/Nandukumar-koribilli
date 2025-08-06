@@ -1,4 +1,13 @@
-# 🌟 Nandu Kumar Koribilli
+<h2 align="center">
+  <samp>
+    &gt; Hello $Coders, I am 
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+    <b>
+      <a target="_blank" href="https://www.linkedin.com/in/nandukumar-koribilli-062ba42a2/">Nandu Kumar Koribilli</a> 🧑
+    </b>
+  </samp>
+</h2>
+<br>
 
 👋 Hi, I'm Nandu! A passionate **Computer Science student** diving into the worlds of **Web Development**, **AI**, and **IoT**. I love crafting innovative, user-friendly applications that solve real-world problems and spark joy!
 
