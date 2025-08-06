@@ -1,4 +1,3 @@
-# 👋 Hello, I'm Nandu Kumar Koribilli
 # 🌟 Nandu Kumar Koribilli
 
 I'm a Computer Science student passionate about web development, AI, and IoT. I enjoy building creative, meaningful applications that make life easier and more fun!
