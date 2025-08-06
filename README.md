@@ -1,6 +1,12 @@
 # 🌟 Nandu Kumar Koribilli
 
-👋 Hi, I'm Nandu! A passionate **Computer Science student** diving into the worlds of **Web Development**, **AI**, and **IoT**. I love crafting innovative, user-friendly applications that solve real-world problems and spark joy!
+ As a dedicated learner currently pursuing an **Honors BSc in Computer Science** at Gayatri Vidya Parishad (A), I am eager to make a meaningful impact in the software sector. My major in Computer Science and minor in the Internet of Things (IoT) have empowered me to explore cutting-edge technologies and innovative solutions.
+
+> I am passionate about **innovation and problem-solving**, constantly seeking out new opportunities to leverage technology for real-world impact. Having completed courses in Artificial Intelligence, I am equipped with a robust skill set spanning software development, IoT, and emerging tech.
+
+- **Actively seeking challenging roles** in software engineering and innovation-driven teams.
+- Committed to *continuous learning* and *driving impactful solutions* in the technology landscape.
+
 
 ---
 
