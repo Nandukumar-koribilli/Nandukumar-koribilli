@@ -75,17 +75,14 @@
 
 ---
 
-## 🥇 Show some ❤️ by starring my repositories!
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
----
-
 > “I code not just for the screen, but to solve real-world problems.”
 
 ⭐️ *Let's build something extraordinary together!*
 
 ---
 
-*Last updated: August 2025*  
-© 2025 Nandu Kumar Koribilli
+## 🥇 Show some ❤️ by starring my repositories!
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
