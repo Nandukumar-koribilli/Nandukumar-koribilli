@@ -26,6 +26,17 @@
 
 ---
 
+---
+
+## 🔥 What I Love Building
+
+- Intelligent automation projects: Robotics, IoT, and sensor-driven solutions
+- Web applications: Fast, responsive, and intuitive user experiences
+- AI/ML models: Implementing smart predictive systems for real-world applications
+- Open source contributions that help the developer community grow
+
+---
+
 ## 🌟 Featured Projects
 - **[CropYieldPredictor](https://github.com/Nandukumar-koribilli/CropYieldPredictor)**: A web app leveraging AI to predict crop yields, helping farmers optimize productivity.  
 - **[Solar System](https://github.com/Nandukumar-koribilli/solar-system)**: An interactive JavaScript-based visualization of our solar system.  
