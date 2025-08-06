@@ -69,6 +69,11 @@
 - 🌐 Portfolio: [Your Portfolio Link]
 - 🐦 X: [Your X Handle]
 
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNiNGs2NHAyaGozdDM3NDdsNGtlbmx6bDM2Znc3c3dxY3Y5OTRlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="500">
+</p>" alt="Coder GIF" width="500">
+</p>
 ---
 
 ## 🥇 Show some ❤️ by starring my repositories!
