@@ -64,8 +64,8 @@
 ---
 
 ## 📬 Get in Touch
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: nandukumar9980@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nandukumar-koribilli-062ba42a2/?originalSubdomain=in
 - 🌐 Portfolio: [Your Portfolio Link]
 - 🐦 X: [Your X Handle]
 
