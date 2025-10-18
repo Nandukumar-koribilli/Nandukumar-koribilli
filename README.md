@@ -66,7 +66,6 @@
 ## 📬 Get in Touch
 - 📧 Email: nandukumar9980@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nandukumar-koribilli-062ba42a2/?originalSubdomain=in
-- 🌐 Portfolio: []
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhubXZpNXRldTV0anM3N3RoMGRteWN4NDdhOW5qNjlobW52aXNnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Coder GIF" width="300">
