@@ -31,7 +31,7 @@
 |-----------------------------|----------------------------------------------------------|
 | Programming Languages       | `Python`, `C++`, `JavaScript`, `HTML`, `CSS`, `C`        |
 | AI & Data Science           | `TensorFlow`, `Keras`, `PyTorch`, `OpenCV`               |
-| Web & App Development       | `React`, `Flutter`, `HTML5`, `CSS3`, `JavaScript`        |
+| Web & App Development       | `React`, `Flutter`, `HTML5`, `CSS3`, `JavaScript`, `TypeScript` |
 | IoT, Robotics & Embedded    | `Arduino`, `ROS`, `ArduPilot`, `Raspberry Pi`            |
 | Databases                   | `MongoDB`, `MySQL`                                       |
 | DevOps & Tools              | `Git`, `GitHub`, `Linux`, `Bash`                         |
